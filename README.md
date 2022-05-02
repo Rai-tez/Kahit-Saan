@@ -4,7 +4,7 @@ DEVELOPERS:
 - [Jasmine Joy Lam](https://www.linkedin.com/in/jasminejoylam/)
 - [John Angelo Algarne](https://www.linkedin.com/in/john-angelo-algarne-26b3121b2/)
 - [Leira Marie Teodoro](https://www.linkedin.com/in/leiramarieteodoro31/)
-- [Lester John Quilaman](https://link-url-here.org)
+- [Lester John Quilaman](https://www.linkedin.com/in/lester-john-quilaman-ba8524239/)
 - [Ralph Andrei Benitez](https://www.linkedin.com/in/ralph-andrei-benitez-b08419236/)
 
 > "Saan mo gusto kumain??"
