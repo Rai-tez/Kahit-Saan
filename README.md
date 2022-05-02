@@ -2,6 +2,13 @@
 
 API: https://pub.dev/packages/google_maps_flutter
 
+DEVELOPERS:
+- Jasmine Joy Lam       LinkedIn: https://www.linkedin.com/in/jasminejoylam/
+- John Angelo Algarne   LinkedIn: https://www.linkedin.com/in/john-angelo-algarne-26b3121b2/
+- Leira Marie Teodoro   LinkedIn: https://www.linkedin.com/in/leiramarieteodoro31/
+- Lester John Quilaman  LinkedIn: 
+- Ralph Andrei Benitez  LinkedIn: https://www.linkedin.com/in/ralph-andrei-benitez-b08419236/
+
 IMPORTS:
 - import 'package:geolocator/geolocator.dart';
 - import 'package:sliding_up_panel/sliding_up_panel.dart';
