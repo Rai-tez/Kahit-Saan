@@ -15,12 +15,10 @@ Requirements:
 - Dart SDK version must be updated            // check if entering dependency for google map will say errors
 - minSdkVersion: 20                           // check app/build.gradle, needed for google maps
 - compileSdkVersion 31                        // check app/build.gradle, compile sdk needs to be 30 above
-- API KEY(from google platforms)              // AIzaSyCnsOZJ-s7KqW-oo0bLd6L0ZcINeQBVzQQ
+- API KEY(from google platforms)              
 
 Setting up google maps:
 > https://pub.dev/packages/google_maps_flutter
-
-
 
 ////////if dart sdk is 2.13 and lower, do steps below: ////////
 Steps for flutter and dart upgrade:
