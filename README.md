@@ -1,13 +1,21 @@
 # "kahit_saan" for the Final Academic project on CS26011(Mobile Programming) A.Y.2020-2021
 
-API: https://pub.dev/packages/google_maps_flutter
-
 DEVELOPERS:
-- Jasmine Joy Lam       LinkedIn: https://www.linkedin.com/in/jasminejoylam/
-- John Angelo Algarne   LinkedIn: https://www.linkedin.com/in/john-angelo-algarne-26b3121b2/
-- Leira Marie Teodoro   LinkedIn: https://www.linkedin.com/in/leiramarieteodoro31/
-- Lester John Quilaman  LinkedIn: 
-- Ralph Andrei Benitez  LinkedIn: https://www.linkedin.com/in/ralph-andrei-benitez-b08419236/
+- [Jasmine Joy Lam](https://www.linkedin.com/in/jasminejoylam/)
+- [John Angelo Algarne](https://www.linkedin.com/in/john-angelo-algarne-26b3121b2/)
+- [Leira Marie Teodoro](https://www.linkedin.com/in/leiramarieteodoro31/)
+- [Lester John Quilaman](https://link-url-here.org)
+- [Ralph Andrei Benitez](https://www.linkedin.com/in/ralph-andrei-benitez-b08419236/)
+
+> "Saan mo gusto kumain??"
+> "Kahit saan nalang"
+
+"Kahit saan" is a phrase indecisive Filipinos usually say when asked on where restaurant to dine 
+so our team developed an app based on this. Our application detects nearby food related places to help in
+deciding an eatery to settle for(factors include distance, price level, and user rating).
+
+
+API: https://pub.dev/packages/google_maps_flutter
 
 IMPORTS:
 - import 'package:geolocator/geolocator.dart';
