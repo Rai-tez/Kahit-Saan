@@ -1,4 +1,4 @@
-# "kahit_saan" for the Final Academic project on CS26011(Mobile Programming) A.Y.2020-2021
+# "Kahit Saan" for the Final Academic project on CS26011(Mobile Programming) A.Y.2020-2021
 
 DEVELOPERS:
 - [Jasmine Joy Lam](https://www.linkedin.com/in/jasminejoylam/)
@@ -11,7 +11,7 @@ DEVELOPERS:
 > "Kahit saan nalang"
 
 "Kahit saan" is a phrase indecisive Filipinos usually say when asked on where restaurant to dine 
-so our team developed an app based on this. Our application detects nearby food related places to help in
+so our team developed an application based on this. Our application detects nearby food related places to help in
 deciding an eatery to settle for(factors include distance, price level, and user rating).
 
 
